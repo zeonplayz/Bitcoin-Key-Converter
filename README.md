@@ -17,6 +17,7 @@ python -m venv env
 ```
 
 4. Activate the virtual environment:
+
 Linux/Mac:
 ```bash
 source env/bin/activate
